@@ -15,7 +15,7 @@ public class DegToCel {
 			oOutput = (fInput-32.0) * (5.0/9.0);
 			
 			//spit out converted temp
-			
+			//test here
 			System.out.println("your temperture in celcius is " + oOutput);
 			
 			
